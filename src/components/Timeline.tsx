@@ -7,7 +7,7 @@ import "../assets/styles/Timeline.scss";
 
 function CareerHistory() {
   return (
-    <div id="career-history" className="container">
+    <div id="history" className="container">
       <h1>Career History</h1>
 
       {/* Education Section */}

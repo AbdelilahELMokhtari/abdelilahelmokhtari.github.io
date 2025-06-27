@@ -16,7 +16,7 @@ function Main() {
             <a href="https://github.com/AbdelilahELMokhtari/" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="http://www.linkedin.com/in/abdelilahelmokhtari/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
-          <h2>ABDELILAH EL MOKHTARI</h2>
+          <h1>Abdelilah El Mokhtari</h1>
           <p>Cloud and Cybersecurity Administrator </p>
 
           <div className="mobile_social_icons">
